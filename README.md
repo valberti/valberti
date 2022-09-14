@@ -7,15 +7,19 @@
   -> Certifications:
 
       Azure - Microsoft Azure Fundamentals (AZ-900)
+      Azure - Azure Administrator Associate (AZ-104)
       MTA: Database Fundamentals (98-364)
       Azure - Microsoft Azure Data Fundamentals (DP-900)
       MCSA: SQL 2016 Database Administration (70-764 and 70-765)
+      Azure - Microsoft Azure Database Administrator Associate (DP-300)
+      Azure - Microsoft Azure AI Fundamentals (AI-900)
       ITIL v3 Foundation - Exin
-      Devops - Devops Essentials Professional Certificate (DEPC) - CertiProf
+      Devops - Professional Certificate Devops Essentials (DEPC) - CertiProf
       SCRUM - Scrum Foundation Professional Certificate (SFPC) - CertiProf
       Kanban - Kanban Foundation (KIKF) - CertiProf
       Cyber Security - Cyber Security Foundation Professional Certificate (CSFPC) - CertiProf
       Remote Work - Remote Work and Virtual Collaboration (RWVCPC) - CertiProf
+      LGPDF - Fundamentos na Lei Geral de Proteção de Dados (LGPDF) - CertiProf
 
 <!---
 valberti/valberti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
